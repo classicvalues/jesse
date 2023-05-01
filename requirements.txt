@@ -5,7 +5,7 @@ matplotlib==3.5.1
 mplfinance==0.12.8b6
 newtulipy==0.4.6
 numpy==1.22.1
-numpy_groupies==0.9.14
+numpy_groupies==0.9.20
 pandas==1.4.0
 peewee==3.14.8
 psycopg2-binary==2.9.2
